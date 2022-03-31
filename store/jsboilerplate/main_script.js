@@ -1,0 +1,1 @@
+console.log('boilerplate for Vanilla Js')
